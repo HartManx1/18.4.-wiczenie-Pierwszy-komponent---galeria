@@ -1,0 +1,1 @@
+# 18.4.-wiczenie-Pierwszy-komponent---galeria
