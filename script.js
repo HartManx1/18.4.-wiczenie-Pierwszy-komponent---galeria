@@ -97,7 +97,6 @@ var MovieList = React.createClass({
 
 var element = React.createElement('div', {},
     React.createElement(MovieList, {
-        className: 'movie-list',
         movies: movies
     })
 );
